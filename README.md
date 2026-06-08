@@ -1,6 +1,8 @@
-# Repo Template
+# Terraform Template Repo
 
-This is a blank Repo Template for you to copy which includes all the relevant policies and other standard governance documents.
+This is a blank Terraform Repo Template for you to copy which includes all the relevant policies and other standard governance documents. Aswell as some basic blank terraform files to get you started.
+
+For more information on Terraform, visit: https://developer.hashicorp.com/terraform
 
 ## Group Policies
 
